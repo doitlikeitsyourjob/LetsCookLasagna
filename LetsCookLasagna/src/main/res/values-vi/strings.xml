@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Cho phép Nấu Lasagna </string>
+    <string name="actionExit">Ra </string>
+    <string name="title_screen_slide">Step By Step thức </string>
+    <!-- Home -->
+    <string name="textview_home">Chào mừng bạn đến phép Cook - Lasagna </string>
+    <string name="textview_home_hint">Trang chủ </string>
+    <string name="button_ingredients">Thành phần </string>
+    <string name="button_cooking">Bắt đầu nấu ăn </string>
+    <string name="home_pic">Một loại kẹo deo </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Trước </string>
+    <string name="action_next">Tiếp theo </string>
+    <string name="action_finish">Kết thúc </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Bước <xliff:g id="step_number">%1$d</xliff:g> của 29 </string>
+    <string name="btn_timer">Bắt đầu hẹn giờ </string>
+    <string name="tv_timerlabel">Thời gian còn lại </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Tiêu đề lớn </string>
+    <string name="action_bar_title">Step By Step thức </string>
+    <string name="action_bar_splash">Cho phép Nấu Lasagna </string>
+    <string name="title_activity_ingredientsdb">Thành phần </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Tờ Lasagna pasta (khô hoặc tươi) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g thịt bò băm </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g thịt lợn băm </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 củ hành tây </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 củ cà rốt </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 nhánh cần tây </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 nấm - tùy chọn </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - tùy chọn </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 lon cà chua </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml rượu vang đỏ </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml sữa đầy đủ chất béo </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Muối và hạt tiêu </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g bơ không ướp muối </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 muỗng canh bột mì </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 tép tỏi </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g phô mai parmesan </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch hạt nhục đậu khấu grated </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 muỗng cà phê rau oregano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Trong</string>
+
+</resources>

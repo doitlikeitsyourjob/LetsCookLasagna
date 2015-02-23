@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Vamos Cozinhar Lasanha </string>
+    <string name="actionExit">saída </string>
+    <string name="title_screen_slide">Passo a passo receita </string>
+    <!-- Home -->
+    <string name="textview_home">Bem-vindo ao Lets Cook - Lasagna </string>
+    <string name="textview_home_hint">Página Inicial </string>
+    <string name="button_ingredients">Ingredientes </string>
+    <string name="button_cooking">Comece Cooking </string>
+    <string name="home_pic">gostoso </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">anterior </string>
+    <string name="action_next">próximo </string>
+    <string name="action_finish">acabamento </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Passo <xliff:g id="step_number">%1$d</xliff:g> de 29 </string>
+    <string name="btn_timer">Start Timer </string>
+    <string name="tv_timerlabel">tempo restante </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Grande texto </string>
+    <string name="action_bar_title">Passo a passo receita </string>
+    <string name="action_bar_splash">Vamos Cozinhar Lasanha </string>
+    <string name="title_activity_ingredientsdb">Ingredientes </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Folhas de lasanha de massa (seco ou fresco) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g de carne moída </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g de carne de porco moída </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 cebola </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 cenoura </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 talos de aipo </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 cogumelos - opcionais </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - opcional </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 lata de tomates </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml de vinho tinto </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml de leite gordo </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Sal e pimenta </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g de manteiga sem sal </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 colheres de sopa de farinha de trigo </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 dentes de alho </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g queijo parmesão </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pitada de noz-moscada ralada </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 colher de chá de orégano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Clarear</string>
+</resources>

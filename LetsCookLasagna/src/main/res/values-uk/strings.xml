@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Дозволяє Кук Лазанья </string>
+    <string name="actionExit">вихід </string>
+    <string name="title_screen_slide">Крок за кроком Рецепт </string>
+    <!-- Home -->
+    <string name="textview_home">Ласкаво просимо Дозволяє Кук - Лазанья </string>
+    <string name="textview_home_hint">Головна сторінка </string>
+    <string name="button_ingredients">інгредієнти </string>
+    <string name="button_cooking">починаємо готувати </string>
+    <string name="home_pic">смачний </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Попередня </string>
+    <string name="action_next">Наступна </string>
+    <string name="action_finish">Оздоблення </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step"><xliff:g id="step_number">%1$d</xliff:g>крок 29 </string>
+    <string name="btn_timer">Пуск таймера </string>
+    <string name="tv_timerlabel">час вийшов </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">крупний шрифт </string>
+    <string name="action_bar_title">Крок за кроком Рецепт </string>
+    <string name="action_bar_splash">Дозволяє Кук Лазанья </string>
+    <string name="title_activity_ingredientsdb">інгредієнти </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Лазанья смуги тесту (сухий або свіжий) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250г яловичини пропустити через м\'ясорубку </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250г свинини фарш </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 цибулина </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 морква </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 стебла селери </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 гриби - опціонально </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 кабачок - опція </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 банка томатів </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125мл червоного вина </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400 мл незбиране молоко </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Сіль і перець </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50г вершкового масла </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 столових ложок пшеничного борошна </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 зубчики часнику </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100г сир пармезан </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch тертий мускатний горіх </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 чайної ложки орегано</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Ясно</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Consente di Cook Lasagna </string>
+    <string name="actionExit">Uscita </string>
+    <string name="title_screen_slide">Passo dopo passo Ricetta </string>
+    <!-- Home -->
+    <string name="textview_home">Benvenuti a Lets Cook - Lasagna </string>
+    <string name="textview_home_hint">Pagina </string>
+    <string name="button_ingredients">Ingredienti </string>
+    <string name="button_cooking">Inizia Cooking </string>
+    <string name="home_pic">Delizioso </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Precedente </string>
+    <string name="action_next">Prossimo </string>
+    <string name="action_finish">Rifinitura </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Fase <xliff:g id="step_number">%1$d</xliff:g> di 29 </string>
+    <string name="btn_timer">Start Timer </string>
+    <string name="tv_timerlabel">Tempo rimasto </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Testo grande </string>
+    <string name="action_bar_title">Passo dopo passo Ricetta </string>
+    <string name="action_bar_splash">Consente di Cook Lasagna </string>
+    <string name="title_activity_ingredientsdb">Ingredienti </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Fogli di pasta lasagne (secco o fresco) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g di manzo macinata </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g carne di maiale macinata </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 cipolla </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 carota </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 gambi di sedano </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 funghi - opzionale </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 zucchina - opzionale </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 lattina di pomodori </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml di vino rosso </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml di latte intero </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Sale e Pepe </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g di burro non salato </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 cucchiai di farina </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 spicchi d\'aglio </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g parmigiano </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch noce moscata grattugiata </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 cucchiaino di origano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Chiaro</string>
+
+</resources>

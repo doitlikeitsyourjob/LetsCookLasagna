@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe">
+        //1
+        <item>Peel the carrot and take the skin off the garlic and onion.\n  Finely dice garlic, onion, carrot and celery.\n Chop the mushrooms and grate the courgette (optional).</item>
+        //2
+        <item>Heat tablespoon of olive oil, in a large flat pan (that has a lid), over medium heat.\n Add garlic, onion, celery, carrot and a pinch of salt to the pan.\n Gently stir for 5 minutes.</item>
+        //3
+        <item>Add mince meat and cook until brown.  Use a spoon to break up large clumps of mince.</item>
+        //4
+        <item>Add the red wine, reduce heat to low and stir until the red wine is fully absorbed.</item>
+        //5
+        <item>Stir in tablespoon of tomato paste.</item>
+        //6
+        <item>Add mushrooms and courgette and mix in. (This is optional, add/remove any vegetables you like).</item>
+        //7
+        <item>Add can of tomatoes and half a can of water (using the same can).</item>
+        //8
+        <item>Add oregano and salt and pepper to taste.</item>
+        //9
+        <item>Put lid on the pan and simmer for about 1 hour, stirring every 15 minutes.</item>
+        //10
+        <item>After 30 minutes, turn the oven on to 200C (390F).</item>
+        //11
+        <item>To make the white sauce, melt the butter in a small saucepan over a low heat. To make the white sauce, melt the butter in a small saucepan over a low heat. \n  While the butter is melting, measure out 6 tablespoons flour and 400ml of milk and place next to the stove with a balloon whisk and wooden spoon.</item>
+        //12
+        <item>Add the flour to the butter and mix quickly with the wooden spoon until well combined over an low heat.</item>
+        //13
+        <item>Slowly add milk whilst continually whisking avoiding sauce becoming lumpy.\n  Whisk non-stop for about 5 minutes until the sauce thickens.</item>
+        //14
+        <item>Turn off the heat and whisk in nutmeg and a handful of parmesan to taste.</item>
+        //15
+        <item>After the meat sauce has been cooking for 1 hour, taste the meat sauce to ensure there is enough seasoning and add more if need be.\n Turn off the heat.</item>
+        //16
+        <item>In a large lasagna dish, add juice from the meat sauce to cover base.</item>
+        //17
+        <item>Cover with a single layer of lasagna sheets.</item>
+        //18
+        <item>Evenly add half the meat sauce on top of the lasagna sheets.</item>
+        //19
+        <item>Add another single layer of lasagna sheets.</item>
+        //20
+        <item>Add half the white sauce and evenly spread  out with fork.</item>
+        //21
+        <item>Cover with a single layer of lasagna sheets.</item>
+        //22
+        <item>Add the remaining meat sauce.</item>
+        //23
+        <item>Cover with single layer of lasagna sheets.</item>
+        //24
+        <item>Add remaining white sauce.</item>
+        //25
+        <item>Grate parmesan over the top to finish.</item>
+        //26
+        <item>Place the lasagna in the preheated oven.</item>
+        //27
+        <item>Cook for 35-40min until top is golden brown.</item>
+        //28
+        <item>Take out, rest for 5min.</item>
+        //29
+        <item>Serve and enjoy!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Cook Lazanya Lets</string>
+    <string name="actionExit">Çıkış </string>
+    <string name="title_screen_slide">Adım Reçete By Step </string>
+    <!-- Home -->
+    <string name="textview_home">Lazanya - Hoşgeldiniz Cook Lets </string>
+    <string name="textview_home_hint">Ana Sayfa </string>
+    <string name="button_ingredients">Malzemeler </string>
+    <string name="button_cooking">Pişirme başlayın </string>
+    <string name="home_pic">Nefis </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Önceki </string>
+    <string name="action_next">Sonraki </string>
+    <string name="action_finish">Bitirmek </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">29 Adım <xliff:g id="step_number">%1$d</xliff:g> </string>
+    <string name="btn_timer">Başlat Timer </string>
+    <string name="tv_timerlabel">Kalan zaman </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Büyük Metin </string>
+    <string name="action_bar_title">Adım Reçete By Step </string>
+    <string name="action_bar_splash">Cook lazanya Lets </string>
+    <string name="title_activity_ingredientsdb">Malzemeler </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Lazanya makarna yaprak (taze veya kuru) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g dana kıyma </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g domuz eti kıyma </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 soğan </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 havuç </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 kereviz sapı </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 mantar - isteğe bağlı </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 kabak - isteğe bağlı </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 kutu domates </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">Kırmızı şarap 125ml </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">Tam yağlı süt 400ml </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Tuz ve Biber </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g tereyağı </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 yemek kaşığı sade un </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 diş sarımsak </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g kaşar peyniri </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Rendelenmiş Hindistan cevizi Pinch </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 çay kaşığı kekik</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Temizlemek</string>
+</resources>

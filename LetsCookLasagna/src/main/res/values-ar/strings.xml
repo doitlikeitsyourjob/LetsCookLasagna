@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">يتيح كوك لازانيا </string>
+    <string name="actionExit">خروج </string>
+    <string name="title_screen_slide">خطوة خطوة وصفة </string>
+    <!-- Home -->
+    <string name="textview_home">مرحبا بكم في يتيح كوك - لازانيا </string>
+    <string name="textview_home_hint">الصفحة الرئيسية </string>
+    <string name="button_ingredients">المكونات </string>
+    <string name="button_cooking">تبدأ الطبخ </string>
+    <string name="home_pic">لذيذ </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">سابق </string>
+    <string name="action_next">التالي </string>
+    <string name="action_finish">نهاية </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">وة 29   <xliff:g id="step_number">%1$d</xliff:g></string>
+    <string name="btn_timer">بدء الموقت </string>
+    <string name="tv_timerlabel">بقي من الزمن </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">نص كبير </string>
+    <string name="action_bar_title">خطوة خطوة وصفة </string>
+    <string name="action_bar_splash">يتيح كوك لازانيا </string>
+    <string name="title_activity_ingredientsdb">المكونات </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">أوراق اللازانيا المعكرونة (الجاف أو الطازج) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250G ولحم البقر المفروم </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250G ولحم الخنزير المفروم </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 البصل </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 جزرة </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 سيقان الكرفس </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 الفطر - اختياري </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 كورجيت - اختياري </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 علبة الطماطم </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ML من النبيذ الاحمر </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ML من الحليب كامل الدسم </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">الملح والفلفل </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50G الزبدة غير المملحة </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 ملاعق طعام من الدقيق العادي </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 فصوص من الثوم </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">جبنة بارميزان 100G </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">قرصة جوزة الطيب المبشور </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 ملعقة صغيرة من الزعتر</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">واضح</string>
+</resources>

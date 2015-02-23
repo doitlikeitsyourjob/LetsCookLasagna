@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">쿡 라자냐에게 있습니다 </string>
+    <string name="actionExit">출구 </string>
+    <string name="title_screen_slide">단계 레시피 단계 </string>
+    <!-- Home -->
+    <string name="textview_home">라자냐 -에 오신 것을 환영합니다 요리를 할 수 있습니다 </string>
+    <string name="textview_home_hint">홈 페이지 </string>
+    <string name="button_ingredients">성분 </string>
+    <string name="button_cooking">요리를 시작하기 </string>
+    <string name="home_pic">맛있는 </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">이전 </string>
+    <string name="action_next">다음 </string>
+    <string name="action_finish">끝 </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">29 단계 중 <xliff:g id="step_number">%1$d</xliff:g> 단계 </string>
+    <string name="btn_timer">시작 타이머 </string>
+    <string name="tv_timerlabel">남은 시간 </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">큰 텍스트 </string>
+    <string name="action_bar_title">단계 레시피 단계 </string>
+    <string name="action_bar_splash">쿡 라자냐에게 있습니다 </string>
+    <string name="title_activity_ingredientsdb">성분 </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">라자냐 파스타 시트 (건조하거나 신선한) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g 쇠고기 다진 고기 </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g의 돼지 고기 말하다 </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">양파 1 개 </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 당근 </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 셀러리 </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 버섯 - 선택 </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 애호박 - 선택 </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 캔 토마토 </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">레드 와인의 125ML </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">전체 지방 우유 400ML </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">소금과 후추 </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g 무염 버터 </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 큰술, 일반 밀가루 </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 다진 마늘 </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g 치즈 치즈 </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">강판 육두구 핀치 </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1 / 2 작은 술, 오레가노</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">명확한</string>
+
+</resources>

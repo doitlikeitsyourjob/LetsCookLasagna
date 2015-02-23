@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Låter Cook Lasagne </string>
+    <string name="actionExit">Utgång </string>
+    <string name="title_screen_slide">Steg för steg recept </string>
+    <!-- Home -->
+    <string name="textview_home">Välkommen till Lets Cook - Lasagne </string>
+    <string name="textview_home_hint">Hemsida </string>
+    <string name="button_ingredients">Ingredienser </string>
+    <string name="button_cooking">börja Matlagning </string>
+    <string name="home_pic">Yummy </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Föregående </string>
+    <string name="action_next">Nästa </string>
+    <string name="action_finish">Mål </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Steg <xliff:g id="step_number">%1$d</xliff:g> av 29 </string>
+    <string name="btn_timer">Starta Timer </string>
+    <string name="tv_timerlabel">Slutar om </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Stor text </string>
+    <string name="action_bar_title">Steg för steg recept </string>
+    <string name="action_bar_splash">Låter Cook Lasagne </string>
+    <string name="title_activity_ingredientsdb">Ingredienser </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Lasagne pasta ark (torr eller färsk) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g nötfärs </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g fläsk färs </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 lök </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 morot </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 selleri stjälkar </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 svamp - valfritt </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 zucchini - tillval </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 burk tomater </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml rött vin </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml av helfet mjölk </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Salt och peppar </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50 g osaltat smör </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 matskedar vanligt mjöl </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 vitlöksklyftor </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100 g ost parmesan </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Nyp riven muskot </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 tsk oregano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Rentvå</string>
+</resources>

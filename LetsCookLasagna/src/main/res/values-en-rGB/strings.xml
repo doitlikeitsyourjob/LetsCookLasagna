@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Lets Cook Lasagna</string>
+    <string name="actionExit">Exit</string>
+    <string name="title_screen_slide">Step By Step Recipe</string>
+
+    <!-- Home -->
+    <string name="textview_home">Welcome to Lets Cook - Lasagna</string>
+    <string name="textview_home_hint">Home Page</string>
+    <string name="button_ingredients">Ingredients</string>
+    <string name="button_cooking">Begin Cooking</string>
+    <string name="home_pic">Yummy</string>
+
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list">ingredients_list</string>
+
+    <!-- Actions -->
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g> of 29 </string>
+    <string name="btn_timer">Start Timer</string>
+    <string name="tv_timerlabel">Time Left</string>
+
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Large Text</string>
+    <string name="action_bar_title">Step By Step Recipe</string>
+    <string name="action_bar_splash">Lets Cook Lasagna</string>
+    <string name="title_activity_ingredientsdb">Ingredients</string>
+
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">1 Lasagna pasta sheets (dry or fresh)</string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g ground beef</string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g ground pork</string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 onion</string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 carrot</string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 celery stalks</string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 mushrooms - optional</string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - optional</string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 can tomatoes</string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml of red wine</string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml of full fat milk</string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Salt and Pepper</string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g unsalted butter</string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 tablespoons plain flour</string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 garlic cloves</string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g parmesan cheese</string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch grated nutmeg - optional</string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 teaspoon oregano</string>
+    <string name="listDesc18"></string>
+    <string name="Clear">Clear</string>
+</resources>

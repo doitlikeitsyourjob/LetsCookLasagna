@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="24dp"
+        android:layout_weight="0"
+        android:hint="@string/textview_home_hint"
+        android:text="@string/textview_home"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        android:layout_margin="16dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/home_pic"
+        android:src="@drawable/wrecipeimg29" />
+
+    <Button
+        android:id="@+id/buttonIngredients"
+        style="@style/ButtonBar"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_weight="1"
+        android:background="@android:drawable/btn_default"
+        android:text="@string/button_ingredients"/>
+
+
+    <Button
+        android:id="@+id/buttonCooking"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_weight="1"
+        android:background="@android:drawable/btn_default"
+        android:text="@string/button_cooking"
+        />
+
+
+
+    <com.google.android.gms.ads.AdView android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="ca-app-pub-4138902309000465/6081279632"/>
+
+</LinearLayout>

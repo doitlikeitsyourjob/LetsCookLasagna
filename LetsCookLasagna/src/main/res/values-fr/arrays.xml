@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe">
+        //1
+        <item>Peler la carotte et enlever la peau de l\'ail et l\'oignon. Ail finement dés, l\'oignon, la carotte et le céleri. Hacher les champignons et râpez la courgette (facultatif)</item>
+        //2
+        <item>à soupe de chaleur de l\'huile d\'olive, dans une grande casserole plat (qui a un couvercle), à ​​feu moyen. Ajouter l\'ail, l\'oignon, le céleri, la carotte et une pincée de sel dans la casserole. Incorporer délicatement pendant 5 minutes.</item>
+        //3
+        <item>Ajouter la viande hachée et faire cuire jusqu\'à coloration. Utilisez une cuillère pour briser les gros amas de viande hachée.</item>
+        //4
+        <item>Ajouter le vin rouge, réduire à feu doux et remuer jusqu\'à ce que le vin rouge est entièrement absorbé.</item>
+        //5
+        <item>Incorporer une cuillère à soupe de pâte de tomate.</item>
+        //6
+        <item>Ajouter les champignons et les courgettes et mélanger po (Cette option est facultative, ajouter supprimer des légumes que vous aimez).</item>
+        //7
+        <item>Ajouter boîte de tomates et une demi-boîte de l\'eau (en utilisant la même boîte).</item>
+        //8
+        <item>Ajouter l\'origan, le sel et le poivre au goût.</item>
+        //9
+        <item>Mettre le couvercle sur la casserole et laisser mijoter pendant environ 1 heure, en remuant toutes les 15 minutes.</item>
+        //10
+        <item>Après 30 minutes, allumer le four à 200C (390F).</item>
+        //11
+        <item>Pour faire la sauce blanche, faire fondre le beurre dans une petite casserole sur feu doux. Pour faire la sauce blanche, faire fondre le beurre dans une petite casserole sur feu doux. Alors que le beurre est en train de fondre, mesurez 6 cuillères à soupe de farine et 400ml de lait et place à côté de la poêle avec un fouet de ballon et une cuillère en bois.</item>
+        //12
+        <item>Ajouter la farine au beurre et mélanger rapidement avec la cuillère en bois jusqu\'à consistance homogène sur un feu doux.</item>
+        //13
+        <item>Ajouter lentement le lait tout en fouettant continuellement en évitant la sauce devient grumeleux. Fouetter non-stop pendant environ 5 minutes jusqu\'à ce que la sauce épaississe.</item>
+        //14
+        <item>Éteindre le feu et fouetter dans la noix de muscade et une poignée de parmesan au goût.</item>
+        //15
+        <item>Après la sauce à la viande a été la cuisson pendant 1 heure, le goût de la sauce à la viande pour s\'assurer qu\'il ya assez assaisonnement et ajouter d\'autres si besoin est. Eteignez le feu.</item>
+        //16
+        <item>Dans un grand plat à lasagne, ajouter le jus de la sauce à la viande pour couvrir base.</item>
+        //17
+        <item>Couvrir avec une seule couche de feuilles de lasagne.</item>
+        //18
+        <item>Ajouter uniformément la moitié de la sauce à la viande sur le dessus des feuilles de lasagne.</item>
+        //19
+        <item>Ajouter une couche unique de feuilles de lasagne.</item>
+        //20
+        <item>Ajouter la moitié de la sauce blanche et uniformément répartis avec une fourchette.</item>
+        //21
+        <item>Couvrir avec une seule couche de feuilles de lasagne.</item>
+        //22
+        <item>Ajouter la sauce à la viande restante.</item>
+        //23
+        <item>Couvrir avec une seule couche de feuilles de lasagne.</item>
+        //24
+        <item>Ajouter le reste de la sauce blanche.</item>
+        //25
+        <item>Parmesan grille sur le dessus pour terminer.</item>
+        //26
+        <item>Placez la lasagne dans le four préchauffé.</item>
+        //27
+        <item>Cuire pendant 35 ou 40 minutes jusqu\'à ce que le dessus soit doré.</item>
+        //28
+        <item>Sortez, reposer pendant 5 minutes.</item>
+        //29
+        <item>Servez et dégustez!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\classes-e56f0aba3db1e2ea6386f55fabc08ef24c93ad69.jar" />
+    </item>
+    <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\libs\pollfish.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fca8b502840531f52cc821e2bd193b04b6e1d64e">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\pollfish-a836714531a18d933a32b3966b129da1246e10d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-8084c6955386c65007cbe8edaccda43893923c6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-987d1fe0919e8f6cd08f5c55cfc2f95139e27342.jar" />
+    </item>
+    <item
+        jar="C:\Users\ndRandall\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-8cba61b668d1c288953d5e6df88b0996f62d16ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\classes-1934caf6d5a64d272681cedc4fdf07b8f33e49ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\classes-f56d61c0a751b095350ca05d415dd3a4c26e7a0e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Pozwala gotować lasagne </string>
+    <string name="actionExit">Wyjście </string>
+    <string name="title_screen_slide">Receptura, krok po kroku </string>
+    <!-- Home -->
+    <string name="textview_home">Witamy Lets Cook - Lasagna </string>
+    <string name="textview_home_hint">Strona główna </string>
+    <string name="button_ingredients">Składniki </string>
+    <string name="button_cooking">Rozpocznij Gotowanie </string>
+    <string name="home_pic">Yummy </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Poprzedni </string>
+    <string name="action_next">Następny </string>
+    <string name="action_finish">Wykończenie </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Krok <xliff:g id="step_number">%1$d</xliff:g> z 29 </string>
+    <string name="btn_timer">Początek timera </string>
+    <string name="tv_timerlabel">Pozostały czas </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Duży tekst </string>
+    <string name="action_bar_title">Receptura, krok po kroku </string>
+    <string name="action_bar_splash">Pozwala gotować lasagne </string>
+    <string name="title_activity_ingredientsdb">Składniki </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Arkusze lasagne makaron (suchy lub świeży) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g mielone wołowe </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">Mielone wieprzowe 250g </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 cebula </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 marchewka </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 łodygi selera </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 grzyby - nieobowiązkowo </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 cukinia - opcjonalnie </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 puszka pomidorów </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml czerwonego wina </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml pełnego mleka tłuszczu </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Sól i pieprz </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g masła </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 łyżek mąki pszennej </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 ząbki czosnku </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g parmezanu </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Szczypta tartej gałki muszkatołowej </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 łyżeczki oregano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Oczyścić</string>
+</resources>

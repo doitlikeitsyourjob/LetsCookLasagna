@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">بیایید کوک لازانیا </string>
+    <string name="actionExit">خروج </string>
+    <string name="title_screen_slide">گام به گام دستور العمل </string>
+    <!-- Home -->
+    <string name="textview_home">به انجمن خوش آمدید بیایید کوک - لازانیا </string>
+    <string name="textview_home_hint">صفحه اصلی </string>
+    <string name="button_ingredients">عناصر </string>
+    <string name="button_cooking">شروع آشپزی </string>
+    <string name="home_pic">جالب </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">قبلی </string>
+    <string name="action_next">بعد </string>
+    <string name="action_finish">پایان </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step"><xliff:g id="step_number">%1$d</xliff:g>/29</string>
+    <string name="btn_timer">شروع به تایمر </string>
+    <string name="tv_timerlabel">زمان چپ </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">متن بزرگ </string>
+    <string name="action_bar_title">گام به گام دستور العمل </string>
+    <string name="action_bar_splash">بیایید کوک لازانیا </string>
+    <string name="title_activity_ingredientsdb">عناصر </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">ورق های ماکارونی لازانیا (خشک یا تازه) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g گوشت چرخ کرده گوشت گاو </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">گوشت چرخ کرده گوشت خوک 250g </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 پیاز </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 هویج </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 ساقه کرفس </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 قارچ - اختیاری </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - اختیاری </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 می توانید گوجه فرنگی </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml شراب قرمز </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml شیر چربی کامل </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">نمک و فلفل </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">کره بدون نمک 50G </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 قاشق غذا خوری آرد ساده </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 حبه سیر </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">پنیر پارمسان 100G </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">خرج کردن جوز رنده شده </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 قاشق چای خوری پونه کوهی</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">واضح</string>
+</resources>

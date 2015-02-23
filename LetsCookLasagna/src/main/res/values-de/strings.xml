@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Lets Cook-Lasagne </string>
+    <string name="actionExit">Ausgang </string>
+    <string name="title_screen_slide">Schritt für Schritt Rezept </string>
+    <!-- Home -->
+    <string name="textview_home">Willkommen bei Lets Koch - Lasagne </string>
+    <string name="textview_home_hint">Startseite </string>
+    <string name="button_ingredients">Zutaten </string>
+    <string name="button_cooking">Beginnen Kochen </string>
+    <string name="home_pic">lecker </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">früher </string>
+    <string name="action_next">nächste </string>
+    <string name="action_finish">Oberfläche </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step"><xliff:g id="step_number">%1$d</xliff:g>schritt von 29 </string>
+    <string name="btn_timer">Start Timer </string>
+    <string name="tv_timerlabel">übrige Zeit </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Große Schrift </string>
+    <string name="action_bar_title">Schritt für Schritt Rezept </string>
+    <string name="action_bar_splash">Lets Cook-Lasagne </string>
+    <string name="title_activity_ingredientsdb">Zutaten </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Lasagne Teigplatten (trocken oder frisch) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g Hackfleisch </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g Schweinehackfleisch </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 Zwiebel </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 Karotte </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 Selleriestangen </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 Pilze - optional </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 Zucchini - optional </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 Dose Tomaten </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml Rotwein </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml Vollmilch </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Salz und Pfeffer </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g ungesalzene Butter </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 Esslöffel Mehl </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 Knoblauchzehen </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g Parmesan </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch geriebene Muskatnuss </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 TL Oregano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Klar</string>
+
+</resources>

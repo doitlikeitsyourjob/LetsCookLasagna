@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Lar Cook Lasagna </string>
+    <string name="actionExit">Utgang </string>
+    <string name="title_screen_slide">Step By Step Oppskrift </string>
+    <!-- Home -->
+    <string name="textview_home">Velkommen til Lar Cook - Lasagne </string>
+    <string name="textview_home_hint">Hjemmeside </string>
+    <string name="button_ingredients">Ingredienser </string>
+    <string name="button_cooking">Begynn Cooking </string>
+    <string name="home_pic">Yummy </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Forrige </string>
+    <string name="action_next">Neste </string>
+    <string name="action_finish">Finish </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Trinn <xliff:g id="step_number">%1$d</xliff:g> i 29 </string>
+    <string name="btn_timer">Start tidtaker </string>
+    <string name="tv_timerlabel">Tid igjen </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Stor tekst </string>
+    <string name="action_bar_title">Step By Step Oppskrift </string>
+    <string name="action_bar_splash">Lar Cook Lasagna </string>
+    <string name="title_activity_ingredientsdb">Ingredienser </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Lasagne lasagneplater (tørr eller fersk) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g kjøttdeig </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g svinekjøtt kjøttdeig </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">en løk </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">en gulrot </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 selleristilker </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 sopp - valgfrie </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 squash - valgfritt </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 boks tomater </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml rødvin </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml av full fett melk </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Salt og Pepper </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g usaltet smør </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 ss hvetemel </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 fedd hvitløk </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g parmesan </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Knip revet muskat </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 ts oregano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Klargjøre</string>
+</resources>

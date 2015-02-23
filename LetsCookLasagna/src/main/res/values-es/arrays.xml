@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipe">
+        //1
+        <item>Pelar la zanahoria y tomar la piel de los ajos y la cebolla.\n ajo finamente dados, la cebolla, la zanahoria y el apio. \n Picar los hongos y rallar el calabacín (opcional).</item>
+        //2
+        <item>Cucharada de calor de aceite de oliva, en una gran cazuela plana (con tapa), a fuego medio.\n Añadir el ajo, la cebolla, el apio, la zanahoria y una pizca de sal a la sartén. Revuelva suavemente durante 5 minutos.</item>
+        //3
+        <item>Añadir la carne picada y cocinar hasta que estén doradas. Use una cuchara para disolver los grupos grandes de carne picada.</item>
+        //4
+        <item>Agregar el vino tinto, reduzca el fuego a bajo y revuelva hasta que el vino tinto se absorbe completamente.</item>
+        //5
+        <item>Agregue una cucharada de pasta de tomate.</item>
+        //6
+        <item>Añadir las setas y calabacín y mezclar pulg (Esto es opcional, añadir / eliminar cualquier tipo de verduras que usted tiene gusto).</item>
+        //7
+        <item>Añadir lata de tomates y la mitad de una lata de agua (usando la misma lata).</item>
+        //8
+        <item>Agregue el orégano y la sal y pimienta al gusto.</item>
+        //9
+        <item>Ponga la tapa en la olla y cocine a fuego lento durante aproximadamente 1 hora, revolviendo cada 15 minutos.</item>
+        //10
+        <item>Después de 30 minutos, encender el horno a 200C (390F).</item>
+        //11
+        <item>Para hacer la salsa blanca, derrita la mantequilla en una cacerola pequeña a fuego lento. Para hacer la salsa blanca, derrita la mantequilla en una cacerola pequeña a fuego lento. \ N Mientras que la mantequilla se derrite, mida 6 cucharadas de harina y 400 ml de leche y un lugar al lado de la estufa con un batidor de globo y una cuchara de madera.</item>
+        //12
+        <item>Añadir la harina a la mantequilla y mezclar rápidamente con la cuchara de madera hasta que esté bien combinada sobre un fuego lento.</item>
+        //13
+        <item>Poco a poco agregue la leche, mientras que continuamente batiendo evitando convertirse en salsa grumosa.\n Batir sin parar durante unos 5 minutos hasta que la salsa espese.</item>
+        //14
+        <item>Apague el fuego y batir en la nuez moscada y un puñado de queso parmesano al gusto.</item>
+        //15
+        <item>Después de la salsa de la carne ha estado cocinando durante 1 hora, el sabor de la salsa de carne para asegurar que haya suficiente sazón y añadir más si es necesario. Apague el fuego.</item>
+        //16
+        <item>En un gran plato de lasaña, agregue el jugo de la salsa de la carne para cubrir la base.</item>
+        //17
+        <item>Cubrir con una sola capa de hojas de lasaña.</item>
+        //18
+        <item>Añada uniformemente la mitad de la salsa de carne en la parte superior de las hojas de lasaña.</item>
+        //19
+        <item>Añadir otra capa única de hojas de lasaña.</item>
+        //20
+        <item>Añadir la mitad de la salsa blanca y uniformemente hacia fuera con tenedor.</item>
+        //21
+        <item>Cubrir con una sola capa de hojas de lasaña.</item>
+        //22
+        <item>Agregue la salsa de la carne restante.</item>
+        //23
+        <item>Cubrir con una sola capa de hojas de lasaña.</item>
+        //24
+        <item>Agregue el resto de la salsa blanca.</item>
+        //25
+        <item>Rallar el parmesano por encima para terminar.</item>
+        //26
+        <item>Coloque la lasaña en el horno precalentado.</item>
+        //27
+        <item>Cocine durante 35-40min hasta que la superficie esté dorada.</item>
+        //28
+        <item>Saque, descansar durante 5 minutos.</item>
+        //29
+        <item>Servir y disfrutar!</item>
+    </string-array>
+</resources>

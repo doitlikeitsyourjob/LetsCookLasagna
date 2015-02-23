@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">クックラザニアをすることができます </string>
+    <string name="actionExit">出口 </string>
+    <string name="title_screen_slide">ステップバイステップのレシピ </string>
+    <!-- Home -->
+    <string name="textview_home">ラザニア - へようこそクックできるようにします </string>
+    <string name="textview_home_hint">ホームページ </string>
+    <string name="button_ingredients">材料 </string>
+    <string name="button_cooking">調理を始める </string>
+    <string name="home_pic">おいしい </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">前 </string>
+    <string name="action_next">次 </string>
+    <string name="action_finish">仕上げ </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">29のステップ<xliff:g id="step_number">%1$d</xliff:g> </string>
+    <string name="btn_timer">タイマ開始 </string>
+    <string name="tv_timerlabel">残り時間 </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">大きな字で </string>
+    <string name="action_bar_title">ステップバイステップのレシピ </string>
+    <string name="action_bar_splash">クックラザニアをすることができます </string>
+    <string name="title_activity_ingredientsdb">材料 </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">ラザニアパスタシート（ドライまたは新鮮） </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250グラムの牛肉ミンチ </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250グラムの豚肉のミンチ </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">タマネギ1個 </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1にんじん </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2セロリの茎 </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8キノコ - オプション </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1ズッキーニ - オプション </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1缶トマト </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">赤ワインの125ミリリットル </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">全脂肪乳400ミリリットル </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">塩とコショウ </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50グラム無塩バター </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6杯小麦粉 </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2ニンニク </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100グラムのパルメザンチーズ </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">すりおろしたナツメグピンチ </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">小さじ1/2オレガノ</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">明確な</string>
+</resources>

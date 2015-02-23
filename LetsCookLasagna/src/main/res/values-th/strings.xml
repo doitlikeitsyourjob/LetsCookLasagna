@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">ยอมให้คุกลาซานญ่า </string>
+    <string name="actionExit">ทางออก </string>
+    <string name="title_screen_slide">ทีละขั้นตอนสูตร </string>
+    <!-- Home -->
+    <string name="textview_home">ยินดีต้อนรับสู่ยอมให้คุก - ลาซานญ่า </string>
+    <string name="textview_home_hint">หน้าแรก </string>
+    <string name="button_ingredients">ส่วนผสม </string>
+    <string name="button_cooking">เริ่มต้นการทำอาหาร </string>
+    <string name="home_pic">อร่อย </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">ก่อน </string>
+    <string name="action_next">ต่อไป </string>
+    <string name="action_finish">เสร็จสิ้น </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">ขั้นที่ <xliff:g id="step_number">%1$d</xliff:g> จาก 29 </string>
+    <string name="btn_timer">เริ่มจับเวลา </string>
+    <string name="tv_timerlabel">เหลือเวลา </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">ข้อความขนาดใหญ่ </string>
+    <string name="action_bar_title">ทีละขั้นตอนสูตร </string>
+    <string name="action_bar_splash">ยอมให้คุกลาซานญ่า </string>
+    <string name="title_activity_ingredientsdb">ส่วนผสม </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">แผ่นลาซานญ่าพาสต้า (แห้งหรือสด) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250 กรัมสับเนื้อ </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">หมูสับ 250 กรัม </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 หัวหอม </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 แครอท </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 ก้านผักชีฝรั่ง </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 เห็ด - ตัวเลือก </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - ตัวเลือก </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 สามารถมะเขือเทศ </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml ไวน์แดง </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml นมไขมันเต็ม </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">เกลือและพริกไทย </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">เนยจืด 50 กรัม </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 ช้อนโต๊ะแป้งธรรมดา </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 กลีบกระเทียม </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">ชีส 100 กรัม </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">หยิกลูกจันทน์เทศขูด </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 ช้อนชาออริกาโน</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">เคลียร์</string>
+</resources>

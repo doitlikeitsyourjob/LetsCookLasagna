@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Давайте Кук Лазанья</string>
+    <string name="actionExit">Выход</string>
+    <string name="title_screen_slide">Шаг за шагом Рецепт</string>
+
+    <!-- Home -->
+    <string name="textview_home">Добро пожаловать в Давайте Кук - Лазанья</string>
+    <string name="textview_home_hint">Главная страница</string>
+    <string name="button_ingredients">Ингредиенты</string>
+    <string name="button_cooking">Начните приготовления пищи</string>
+    <string name="home_pic">Вкусный</string>
+
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list">ingredients_list</string>
+
+    <!-- Actions -->
+    <string name="action_previous">Предыдущий</string>
+    <string name="action_next">Следующая</string>
+    <string name="action_finish">Готово</string>
+
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Шаг <xliff:g id="step_number">%1$d</xliff:g> от 29 </string>
+    <string name="btn_timer">Запуск таймера</string>
+    <string name="tv_timerlabel">Оставшееся время</string>
+
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Large Text</string>
+    <string name="action_bar_title">Шаг за шагом Рецепт</string>
+    <string name="action_bar_splash">Давайте Кук Лазанья</string>
+    <string name="title_activity_ingredientsdb">Ингредиенты</string>
+
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Лазанья полосы теста (сухие или свежие)</string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250г говядины пропустить через мясорубку</string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250г свинины фарш</string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 луковица</string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 морковь</string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 стебля сельдерея</string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 грибы - необязательные</string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 кабачок - опционально</string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 может помидоры</string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125мл красного вина</string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400 мл полным содержанием жира молока</string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Соль и перец</string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g несоленого сливочного масла</string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 столовых ложек муки</string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 зубчика чеснока</string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100г сыр пармезан</string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch тертый мускатный орех</string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 чайной ложки орегано</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">очищать</string>
+</resources>

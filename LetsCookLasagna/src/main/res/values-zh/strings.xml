@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">让厨师烤宽面条</string>
+    <string name="actionExit">退出</string>
+    <string name="title_screen_slide">一步一步的食谱</string>
+
+    <!-- Home -->
+    <string name="textview_home">欢迎光临让库克 - 烤宽面条</string>
+    <string name="textview_home_hint">首页</string>
+    <string name="button_ingredients">成分</string>
+    <string name="button_cooking">开始烹饪</string>
+    <string name="home_pic">美味</string>
+
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list">ingredients_list</string>
+
+    <!-- Actions -->
+    <string name="action_previous">上一页</string>
+    <string name="action_next">下一步</string>
+    <string name="action_finish">完成</string>
+
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">29的第 <xliff:g id="step_number">%1$d</xliff:g> 步 </string>
+    <string name="btn_timer">启动定时器</string>
+    <string name="tv_timerlabel">剩余时间</string>
+
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Large Text</string>
+    <string name="action_bar_title">一步一步的食谱</string>
+    <string name="action_bar_splash">让厨师烤宽面条</string>
+    <string name="title_activity_ingredientsdb">成分</string>
+
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">烤宽面条的面食片（干或鲜）</string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250克牛肉切末</string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250克猪肉切末</string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1个洋葱</string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1根胡萝卜</string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2芹菜茎</string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8蘑菇 - 可选的</string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1西葫芦 - 可选的</string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1罐番茄</string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125毫升红酒</string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400毫升全脂牛奶</string>
+    <string name="listDesc11"></string>
+    <string name="listName12">盐和胡椒</string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50克黄油</string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6汤匙面粉</string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2瓣大蒜</string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100克意大利干酪</string>
+    <string name="listDesc16"></string>
+    <string name="listName17">掐磨碎的肉豆蔻</string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2茶匙牛至</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">明确</string>
+</resources>

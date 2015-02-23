@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Permet de cuire Lasagne</string>
+    <string name="actionExit">Sortie</string>
+    <string name="title_screen_slide">Recette Pas à Pas</string>
+
+    <!-- Home -->
+    <string name="textview_home">Bienvenue à Lets Cook - Lasagne</string>
+    <string name="textview_home_hint">Accueil</string>
+    <string name="button_ingredients">Ingrédients</string>
+    <string name="button_cooking">Commencer la Cuisson</string>
+    <string name="home_pic">Délicieux</string>
+
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list">ingredients_list</string>
+
+    <!-- Actions -->
+    <string name="action_previous">Précédent</string>
+    <string name="action_next">Suivant</string>
+    <string name="action_finish">Terminer</string>
+
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Etape <xliff:g id="step_number">%1$d</xliff:g>  de 29 </string>
+    <string name="btn_timer">Lancer minuterie</string>
+    <string name="tv_timerlabel">Temps restant</string>
+
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Large Text</string>
+    <string name="action_bar_title">Recette Pas à Pas</string>
+    <string name="action_bar_splash">Permet de Cuire Lasagne</string>
+    <string name="title_activity_ingredientsdb">Ingrédients</string>
+
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Lasagne feuilles de pâtes (sèches ou fraîches)</string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g de boeuf haché</string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g de porc haché</string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 oignon</string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 carotte</string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 branches de céleri</string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 champignons - en option</string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - facultatif</string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 can tomatoes</string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125 ml de vin rouge</string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml de lait entier</string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Sel et poivre</string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g de beurre non salé</string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 cuillères à soupe de farine</string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 gousses d\'ail</string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g de parmesan</string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pincez noix de muscade râpée</string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 cuillère à café d\'origan</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Clair</string>
+</resources>

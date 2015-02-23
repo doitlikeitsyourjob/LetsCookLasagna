@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Permite cocinar lasaña</string>
+    <string name="actionExit">Salir</string>
+    <string name="title_screen_slide">Paso a paso de la receta</string>
+
+    <!-- Home -->
+    <string name="textview_home">Bienvenido a Lets Cook - Lasagna</string>
+    <string name="textview_home_hint">Página de Inicio</string>
+    <string name="button_ingredients">Ingredientes</string>
+    <string name="button_cooking">Empezar la cocción</string>
+    <string name="home_pic">Delicioso</string>
+
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list">ingredients_list</string>
+
+    <!-- Actions -->
+    <string name="action_previous">Anterior</string>
+    <string name="action_next">Siguiente</string>
+    <string name="action_finish">Finalizar</string>
+
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Paso <xliff:g id="step_number">%1$d</xliff:g> de 29 </string>
+    <string name="btn_timer">Iniciar temporizador</string>
+    <string name="tv_timerlabel">Tiempo restante</string>
+
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Large Text</string>
+    <string name="action_bar_title">Paso a Paso de la Receta</string>
+    <string name="action_bar_splash">Permite cocinar Lasaña</string>
+    <string name="title_activity_ingredientsdb">Ingredientes</string>
+
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Hojas de pasta Lasaña (secas o frescas)</string>
+    <string name="listDesc1"></string>
+    <string name="listName2">Carne picada 250g.</string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g de carne picada de cerdo</string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 cebolla</string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 zanahoria</string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 tallos de apio</string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 champiñones - opcional</string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 calabacín - opcional</string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 tomate de lata</string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml de vino tinto</string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml de leche entera</string>
+    <string name="listDesc11"></string>
+    <string name="listName12">La sal y la pimienta</string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g de mantequilla sin sal</string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 cucharadas de harina</string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 dientes de ajo</string>
+    <string name="listDesc15"></string>
+    <string name="listName16">Queso parmesano 100g</string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Una pizca de nuez moscada rallada</string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 cucharadita de orégano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Claro</string>
+</resources>

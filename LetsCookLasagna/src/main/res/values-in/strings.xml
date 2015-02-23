@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    <string name="app_name">Mari Masak Lasagna </string>
+    <string name="actionExit">Keluar </string>
+    <string name="title_screen_slide">Langkah By Step Resep </string>
+    <!-- Home -->
+    <string name="textview_home">Selamat Datang Mari Masak - Lasagna </string>
+    <string name="textview_home_hint">Halaman Depan </string>
+    <string name="button_ingredients">Bahan </string>
+    <string name="button_cooking">Mulai memasak </string>
+    <string name="home_pic">Lezat </string>
+    <!-- Ingredients -->
+    <string name="iv_ingredients_list"></string>
+    <!-- Actions -->
+    <string name="action_previous">Sebelumnya </string>
+    <string name="action_next">Berikutnya </string>
+    <string name="action_finish">Selesai </string>
+    <!-- Fragment_screen_slide_page -->
+    <string name="title_template_step">Langkah <xliff:g id="step_number">%1$d</xliff:g> dari 29 </string>
+    <string name="btn_timer">Mulai Timer </string>
+    <string name="tv_timerlabel">Waktu Kiri </string>
+    <!-- ListViewRow -->
+    <string name="listviewrow_text">Teks besar </string>
+    <string name="action_bar_title">Langkah By Step Resep </string>
+    <string name="action_bar_splash">Mari Masak Lasagna </string>
+    <string name="title_activity_ingredientsdb">Bahan </string>
+    <!-- Ingredients List- Name and Description -->
+    <string name="listName1">Lasagna pasta lembar (kering atau segar) </string>
+    <string name="listDesc1"></string>
+    <string name="listName2">250g daging sapi cincang </string>
+    <string name="listDesc2"></string>
+    <string name="listName3">250g daging babi cincang </string>
+    <string name="listDesc3"></string>
+    <string name="listName4">1 bawang </string>
+    <string name="listDesc4"></string>
+    <string name="listName5">1 wortel </string>
+    <string name="listDesc5"></string>
+    <string name="listName6">2 batang seledri </string>
+    <string name="listDesc6"></string>
+    <string name="listName7">8 jamur - opsional </string>
+    <string name="listDesc7"></string>
+    <string name="listName8">1 courgette - opsional </string>
+    <string name="listDesc8"></string>
+    <string name="listName9">1 kaleng tomat </string>
+    <string name="listDesc9"></string>
+    <string name="listName10">125ml anggur merah </string>
+    <string name="listDesc10"></string>
+    <string name="listName11">400ml susu penuh lemak </string>
+    <string name="listDesc11"></string>
+    <string name="listName12">Salt and Pepper </string>
+    <string name="listDesc12"></string>
+    <string name="listName13">50g mentega tawar </string>
+    <string name="listDesc13"></string>
+    <string name="listName14">6 sendok makan tepung terigu </string>
+    <string name="listDesc14"></string>
+    <string name="listName15">2 siung bawang putih </string>
+    <string name="listDesc15"></string>
+    <string name="listName16">100g keju parmesan </string>
+    <string name="listDesc16"></string>
+    <string name="listName17">Pinch pala parut </string>
+    <string name="listDesc17"></string>
+    <string name="listName18">1/2 sendok teh oregano</string>
+    <string name="listDesc18"></string>
+
+    <string name="Clear">Jelas</string>
+</resources>
