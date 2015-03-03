@@ -16,6 +16,13 @@
         <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\pollfish-a836714531a18d933a32b3966b129da1246e10d6.jar" />
     </item>
     <item
+        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\classes-98940a3569049a6d92ba83a7a4f5f93d29d022e4.jar" />
+    </item>
+    <item
         jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
         jumboMode="false"
         revision="19.1.0"
@@ -42,13 +49,6 @@
         revision="19.1.0"
         sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
         <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\classes-1934caf6d5a64d272681cedc4fdf07b8f33e49ed.jar" />
-    </item>
-    <item
-        jar="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
-        <dex dex="C:\Users\ndRandall\Documents\_Development\Android\_Projects\LetsCookLasagnaProject\LetsCookLasagna\build\intermediates\pre-dexed\debug\classes-f56d61c0a751b095350ca05d415dd3a4c26e7a0e.jar" />
     </item>
 
 </items>
