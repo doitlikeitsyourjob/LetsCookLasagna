@@ -26,6 +26,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.pollfish.constants.Position;
+import com.pollfish.main.PollFish;
 
 
 /**
@@ -115,9 +117,10 @@ public class ScreenSlidePageFragment extends Fragment {
         AdView adView = (AdView) rootView.findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)        // All emulators
-                .addTestDevice("3244EEFC41AB498C0365FD48218D1D96")  // My HTC One X test phone
+                .addTestDevice("4C67C373883EA1BA088AA0DD0B2D4BBE")  // My HTC One X test phone
                 .build();
         adView.loadAd(adRequest);
+
 
         //if (mPageNumber == 10)  {
         //    handleAdColony();

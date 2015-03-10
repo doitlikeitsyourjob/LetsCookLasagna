@@ -12,6 +12,9 @@ import android.support.v4.view.ViewPager;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.pollfish.constants.Position;
+import com.pollfish.main.PollFish;
+
 /**
  * Created by ndRandall on 20/10/13.
  */
@@ -37,6 +40,8 @@ public class ScreenSlideActivity extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_screen_slide);
+
+        PollFish.init(this, "a3176c23-1d94-498c-a9cf-76ff9de66ed3", Position.TOP_LEFT, 5);
 
         // Instantiate a ViewPager and a PagerAdapter.
         mPager = (ViewPager) findViewById(R.id.pager);
